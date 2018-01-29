@@ -6,8 +6,8 @@
 allprojects {
 repositories {
     maven { url 'https://jitpack.io' }
-        }
-}
+            }
+       }
 
 然后在dependencies项中写以下代码即可使用
 
