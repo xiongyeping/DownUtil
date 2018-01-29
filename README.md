@@ -8,5 +8,7 @@ repositories {
     maven { url 'https://jitpack.io' }
         }
 }
+
 然后在dependencies项中写以下代码即可使用
- compile 'com.github.xiongyeping:DownUtil:1.0.0'
+
+compile 'com.github.xiongyeping:DownUtil:1.0.0'
